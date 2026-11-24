@@ -1,0 +1,25 @@
+# CMake & build directories
+build/
+out/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# IDE / OS clutter
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
